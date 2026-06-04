@@ -1,0 +1,6 @@
+{
+  "name": "UniGrow",
+  "description": "대학생들을 위한 맞춤형 자기계발 실천 로드맵, 자아 진단 테스트, 일일 습관 트래커 및 알짜 대학생 리소스 포털",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
